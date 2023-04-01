@@ -1,0 +1,15 @@
+.footer-container{
+    padding: 0;
+}
+.footer{
+    background-color: #6047EC;
+    text-align: center;
+    margin-top: 2px;
+    border-radius: 0;
+    padding: 15px;
+    color: rgb(117, 115, 115);
+}
+.footer p{
+    margin-bottom: 0;
+    color: white;
+}

@@ -1,0 +1,21 @@
+.sidebar-container{
+    position: sticky;
+    top: 0;
+    height: 100%;
+    padding-top: 10px;
+}
+.blog-container{
+    margin-top: 10px;
+    padding-right: 20px !important;
+}
+
+
+@media screen and (max-width: 768px) {
+  .blog-container{
+      padding: 20px !important;
+  }
+  .sidebar-container{
+    padding: 0 !important;
+    position: none;
+}
+}

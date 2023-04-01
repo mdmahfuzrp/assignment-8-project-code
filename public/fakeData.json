@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "author_name": "Nikolas Puran",
+        "blog_title": "How to learn Web Development in 2023 (Web Developer Roadmap)",
+        "images": {
+            "blog_cover_image": "https://davidnorris.org/wp-content/uploads/2022/08/chess-768x512.jpg",
+            "author_image": "https://media.allure.com/photos/5ac3b8ffd3ccd12fabf243fe/1:1/w_2000,h_2000,c_limit/best-glasses-for-your-face-shape-devin-norelle-1.jpg"
+        },
+        "read_time": "09",
+        "topics": {
+            "first_topic": "#web #developer"
+        },
+        "publish_date": "Mar (4 Days ago)"
+    },
+    {
+        "id": 2,
+        "author_name": "Juliet Briks",
+        "blog_title": "5 Life Lesson for Make life Successful and Great Also",
+        "images": {
+            "blog_cover_image": "https://davidnorris.org/wp-content/uploads/2022/08/being_a_part_local_church-768x512.jpg",
+            "author_image": "https://stylecaster.com/wp-content/uploads/2016/05/olivia-wilde-square-face.jpg"
+        },
+        "read_time": "03",
+        "topics": {
+            "first_topic": "#life #lesson"
+        },
+        "publish_date": "Aug 04 (2 Days ago)"
+    },
+    {
+        "id": 3,
+        "author_name": "James Alfa",
+        "blog_title": "Top 10 Horror English Adventure type Movie",
+        "images": {
+            "blog_cover_image": "https://davidnorris.org/wp-content/uploads/2022/08/dance-768x512.jpg",
+            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_FOA4Q03IjXuOVYw0cKZywnO02prgqwmRGJpeyuZnk9m_Qt3vkb7QswpV0ffbZDzmHU&usqp=CAU"
+        },
+        "read_time": "10",
+        "topics": {
+            "first_topic": "#movie #entertainment"
+        },
+        "publish_date": "Dec 17 (9 Days ago)"
+    },
+    {
+        "id": 4,
+        "author_name": "Sumit Saha",
+        "blog_title": "Top 10 Feature in Javascript in 2023",
+        "images": {
+            "blog_cover_image": "https://davidnorris.org/wp-content/uploads/2022/07/thank-you-768x512.jpg",
+            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsk03Piz-JE5vyBOZ7NbQtq2w726J6WssOrXk5TOrtmn3tpN8CSI5SKPxe2EWe2nkPbWo&usqp=CAU"
+        },
+        "read_time": "07",
+        "topics": {
+            "first_topic": "#top10 #javascript"
+        },
+        "publish_date": "Nov 09 (1 Weeks ago)"
+    },
+    {
+        "id": 5,
+        "author_name": "Justin Burb",
+        "blog_title": "How Maintain Great People, Time Table and Hard Work",
+        "images": {
+            "blog_cover_image": "https://davidnorris.org/wp-content/uploads/2022/07/fear-768x512.jpg",
+            "author_image": "https://www.menshairstylestoday.com/wp-content/uploads/2021/05/Low-Fade.jpg"
+        },
+        "read_time": "12",
+        "topics": {
+            "first_topic": "#great #hardwork"
+        },
+        "publish_date": "Aug 17 (7 Days ago)"
+    }
+]

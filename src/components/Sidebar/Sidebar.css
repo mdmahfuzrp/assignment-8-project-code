@@ -1,0 +1,48 @@
+.total-spent-time {
+    background: rgba(96, 71, 236, 0.1);
+    border: 1px solid #6047EC;
+    border-radius: 8px;
+    padding: 16px;
+}
+.total-spent-time h3 {
+    font-weight: 700;
+    font-size: 22px;
+    color: #6047EC;
+    text-align: center;
+    margin: 0;
+}
+.bottom-side {
+    background: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+    margin-top: 25px;
+    padding: 30px;
+    max-height: 80vh;
+    overflow-y: scroll;
+}
+.bottom-side .bookmarked-item{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 160%;
+    margin-bottom: 10px;
+}
+.read-blog{
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 15px;
+}
+.read-blog h1{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+}
+
+@media screen and (max-width: 768px) {
+    .sidebar{
+        padding: 20px;
+    }
+    .bottom-side {
+        max-height: 100%;
+        overflow-y: auto;
+    }
+}
